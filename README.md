@@ -1,2 +1,2 @@
-# VSCode Template
+#### Raylib VSCode Template C++
 
